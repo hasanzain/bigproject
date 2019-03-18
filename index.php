@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	ini halaman html5 yang baru
+	index saya perbarui
 </body>
 </html>
